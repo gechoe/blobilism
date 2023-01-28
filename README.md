@@ -10,6 +10,9 @@ This demo implements a simple drawing program based on a circle brush.
 ## Results
 
 TODO: Put images of what you've made here
+![Image_1](images/Image1.png)
+![Image_2](images/Image2.png)
+![Image_3](images/Image3.png)
 
 ## How to build
 
