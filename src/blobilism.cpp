@@ -46,9 +46,6 @@ class MyWindow : public Window {
   void draw() override {
     background(0.95f, 0.95f, 0.95f); // parameters: r, g, b
 
-    color(1.0f, 0.5f, 0.5f);
-    circle(width() * 0.5f, height() * 0.5, 300);
-
     // todo : draw pallet
     color(0.1f, 0.1f, 0.1f);
     square(width()/2.0f, 35, width(), 70);
