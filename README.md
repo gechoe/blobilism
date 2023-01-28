@@ -11,14 +11,14 @@ This demo implements a simple drawing program based on a circle brush.
 
 TODO: Put images of what you've made here
 
-Image 1:
-![Image_1](images/Image1.png)
+Image 1 - A Person:
+![Image_1](images/Person.png)
 
-Image 2:
-![Image_2](images/Image2.png)
+Image 2 - A Blueberry:
+![Image_2](images/Blueberry.png)
 
-Image 3:
-![Image_3](images/Image3.png)
+Image 2 - A Christmas Tree:
+![Image_3](images/ChristmasTree.png)
 
 ## How to build
 
